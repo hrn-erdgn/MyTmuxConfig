@@ -1,9 +1,7 @@
 # MyTmuxConfig
 
 
-
-
-![alt text](https://github.com/hrn-erdgn/MyTmuxConfig/blob/master/screenshot.png?raw=true)
+![screenshot](https://user-images.githubusercontent.com/66188085/83909127-e34ef600-a770-11ea-9bb0-1283abbfbb36.png)
 
 
 
